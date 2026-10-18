@@ -1,15 +1,23 @@
-# Yer Alti Fiber Optik Kablolar | MAVIVON Teknoloji
+# MAVİVON | Yer Alti Fiber Optik Kablolar
 
-**Yayin tarihi:** 08/05/2024
+**Egitici yayin serisi 03 · Yayin tarihi: 08/05/2024**
 
-Kablo kesitleri, uretim, zirh ve kilif secimi; kanal ici cekim ve dogrudan gomme.
+Kanal icine cekilecek kablo ile dogrudan topraga gomulecek kablo ayni kosullarda calismaz. Zemindeki su, montaj sirasindaki cekme kuvveti, ezilme riski ve guzergahin bakim imkanlari, urun secimini degistirir. MAVIVON Yer Alti Fiber Optik Kablo Kilavuzu, kablonun dis kilifindan fiber yapisina kadar bu kararlarin arkasindaki nedenleri acikliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Loose tube yapilar, guclendirme elemanlari, su engelleme yontemleri ve zirh secenekleri; uretim akisi ve saha uygulamasiyla birlikte ele aliniyor. Bir kablonun etiketindeki fiber adedi dogru olsa bile, montaj sinirlarinin ve cevresel uygunlugunun ayrica incelenmesi gerektigini uygulama orneklerinde gorebilirsiniz.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Underground_Fiber_Optic_Cable_Kilavuzu.pdf)
+Kilavuz; yeni hat tasarlayanlarin, teklifleri degerlendirenlerin ve kablo cekim ekiplerinin ayni urunu farkli acilardan incelemesine yardimci olmak icin hazirlandi. Sartname hazirliginda hangi ozelligin nasil tanimlanacagina dair bir okuma rotasi da sunuyor.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Underground_Fiber_Optic_Cable_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

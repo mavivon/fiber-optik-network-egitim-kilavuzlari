@@ -1,15 +1,23 @@
-# CCTV Kayit Cihazlari | MAVIVON Teknoloji
+# MAVİVON | CCTV Kayit Cihazlari
 
-**Yayin tarihi:** 22/04/2026
+**Egitici yayin serisi 11 · Yayin tarihi: 22/04/2026**
 
-NVR/DVR secimi, veri hizi, disk kapasitesi, saklama suresi ve sistem uyumu.
+Kayit cihazinda bos kanal bulunmasi, yeni kameranin her kosulda sisteme eklenebilecegi anlamina gelmez. Gelen veri hizi, desteklenen goruntu ayarlari, disk kapasitesi ve ayni anda izleme ihtiyaci birlikte kontrol edilmelidir. MAVIVON CCTV Kayit Cihazlari kilavuzu, secimi bu zincir uzerinden acikliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+NVR ve DVR yapilari, kamera uyumu ve ag baglantilari temel bolumleri olusturuyor. Depolama tarafinda kamera sayisi, bitrate, kayit suresi ve kayit programinin kapasite hesabina nasil girdigini orneklerle ele aldik. Bir sistem genisletilirken hangi sinirlarin yeniden incelenecegi de anlatiliyor.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_CCTV_Kayit_Cihazlari.pdf)
+Yeni kurulum yapanlar kadar mevcut sistemi yenileyen teknik ekipler de bu kaynaktan yararlanabilir. Teklif hazirliginda kayit cihazini yalnizca kanal ve disk sayisiyla tarif etmek yerine, gercek kullanim senaryosunu tanimlamak icin hazirlandi.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_CCTV_Kayit_Cihazlari.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

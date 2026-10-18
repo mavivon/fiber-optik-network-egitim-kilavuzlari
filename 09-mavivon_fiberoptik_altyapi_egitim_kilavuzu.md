@@ -1,15 +1,23 @@
-# Fiber Optik Altyapi | MAVIVON Teknoloji
+# MAVİVON | Fiber Optik Altyapi
 
-**Yayin tarihi:** 07/03/2026
+**Egitici yayin serisi 09 · Yayin tarihi: 07/03/2026**
 
-Kesif, guzergah, kablo montaji, ek planlama, olcum ve teslim sureci.
+Fiber optik altyapida bir sonraki ekip, onceki ekibin biraktigi duzenle calisir. Guzergah bilgisi eksikse, ek noktasi kayitsizsa veya olcum dosyalari portlarla eslesmiyorsa bakim zorlasir. MAVIVON Fiber Optik Altyapi kilavuzu, yapim isini kesiften teslime uzanan bir surec olarak ele aliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Kablo secimi ve guzergah planlamasinin ardindan montaj kosullari, ek ve sonlandirma duzeni, olcumler ve kabul kayitlari geliyor. Bu basliklarin her biri digerini etkiliyor: uygun kablo secmek kadar montaj sinirlarini korumak, bir test almak kadar sonucunu dogru baglantiya kaydetmek de gerekli.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Fiberoptik_Altyapi_Egitim_Kilavuzu.pdf)
+Yeni bir projeye baslayanlar icin butunun resmini; sahada calisanlar icin ise uygulama ve teslim asamalarini bir arada sunan bir kaynak hazirladik. Sartname ve kesif hazirliginda kullanilabilecek kontrol noktalarini da PDF icinde bulabilirsiniz.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Fiberoptik_Altyapi_Egitim_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

@@ -1,15 +1,23 @@
-# Fiber Optik Patch Cord | MAVIVON Teknoloji
+# MAVİVON | Fiber Optik Patch Cord
 
-**Yayin tarihi:** 18/09/2025
+**Egitici yayin serisi 06 · Yayin tarihi: 18/09/2025**
 
-Fiber ve konektor secimi, UPC/APC, uretim asamalari, temizlik ve olcum.
+Iki cihaz arasindaki kisa fiber baglantida sorun ararken Patch Cord kolayca gozden kacabiliyor. Oysa fiber tipi, konektor geometrisi ve uc yuzeyinin durumu, baglantinin tamamini etkileyebilir. MAVIVON Patch Cord kilavuzu; LC veya SC seciminin otesinde, hangi ozelligin neden kontrol edilecegini anlatiyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Single-mode ve multimode uyumu, UPC ve APC uc yapilari, simplex ve duplex duzeni, kablo boyu ve dis kilif secimi ilgili uygulamalarla ele aliniyor. Uretim bolumlerinde konektor hazirligi, montaj, polisaj ve kontrol asamalarinin bitmis urunun davranisina nasil yansidigi isleniyor.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Patch_Cord_Egitim_Kilavuzu.pdf)
+Kilavuzdan; teklif karsilastirmasinda istenecek test bilgilerini, montaj oncesi temizlik adimlarini ve bir baglantiyi teslim ederken gozden gecirilecek noktalari ogrenebilirsiniz. Veri merkezi, bina ici dagitim veya FTTH baglantisinda dogru assembly secmek isteyenler icin hazirlandi.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Patch_Cord_Egitim_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

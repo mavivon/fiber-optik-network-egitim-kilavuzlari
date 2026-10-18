@@ -1,15 +1,23 @@
-# Fiber Optik Splitter | MAVIVON Teknoloji
+# MAVİVON | Fiber Optik Splitter
 
-**Yayin tarihi:** 20/12/2023
+**Egitici yayin serisi 01 · Yayin tarihi: 20/12/2023**
 
-PLC ve FBT yapilari, bolme orani, optik butce, uretim, montaj ve test.
+Bir FTTH projesinde splitterin bolme oranini belirlemek, yalnizca kac abone baglanacagini saymakla bitmiyor. Fiber mesafesi, ekler, konektorler ve ayrilan isletme payi bir araya geldiginde, kagit uzerinde uygun gorunen bir secim sahada yetersiz kalabiliyor. MAVIVON'un Fiber Optik Splitter kilavuzu, bu karari urunun yapisindan baslayarak ele aliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+PLC ve FBT teknolojileri hangi uygulamalarda kullanilir? Bolme orani optik kaybi nasil etkiler? Bir veri sayfasindaki tipik deger ile garanti edilen sinir nasil ayrilir? Kilavuzda bu sorulari uretim, paketleme, optik butce ve test basliklariyla birlikte isledik. LGX kaset veya kompakt modul gibi farkli urun bicimlerini de kullanim yerleriyle birlikte okuyabilirsiniz.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Fiberoptik_Splitter_Kilavuzu.pdf)
+Urun teklifi karsilastiranlar icin performans maddeleri, montaj ekibi icin baglanti ve temizlik ayrintilari, ogrenciler icin hesap ornekleri ayni kaynakta bulusuyor.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Fiberoptik_Splitter_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

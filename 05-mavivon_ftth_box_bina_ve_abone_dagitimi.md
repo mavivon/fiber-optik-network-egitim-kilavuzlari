@@ -1,15 +1,23 @@
-# FTTH Box: Bina ve Abone Dagitimi | MAVIVON Teknoloji
+# MAVİVON | FTTH Box: Bina ve Abone Dagitimi
 
-**Yayin tarihi:** 03/03/2025
+**Egitici yayin serisi 05 · Yayin tarihi: 03/03/2025**
 
-Bina girisinden aboneye dagitim, kutu kapasitesi, port duzeni ve montaj.
+Bir binanin fiber dagitimi kurulduktan sonra yeni abone eklemek veya bir portu takip etmek gerekecek. FTTH Box seciminde bugunku ihtiyac kadar sonraki mudahalenin nasil yapilacagi da onem tasiyor. MAVIVON'un Bina ve Abone Dagitimi yayini, kutuyu tek basina bir urun olarak degil, dagitim zincirinin parcasi olarak ele aliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Bina girisi, kat dagitimi ve abone baglantisi arasindaki gorevler; port duzeni, fiber kapasitesi ve kablo guzergahiyla birlikte aciklaniyor. Adapter, Pigtail, Splitter ve splice tray gibi parcalarin kutu icinde bir araya gelirken hangi alan ve erisim ihtiyaclarini olusturdugunu inceleyebilirsiniz.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_FTTH_Box_Bina_ve_Abone_Dagitimi.pdf)
+Uygulama ekibi icin okunabilir etiketleme ve fiber duzeni; proje ekibi icin kapasite ve yerlesim; satin alma icin malzeme ve montaj uyumu one cikiyor. Kilavuz, bu farkli beklentileri ayni bina ornegi uzerinde dusunmeye yardimci oluyor.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_FTTH_Box_Bina_ve_Abone_Dagitimi.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

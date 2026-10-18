@@ -1,15 +1,23 @@
-# Fiber Optik Pigtail | MAVIVON Teknoloji
+# MAVİVON | Fiber Optik Pigtail
 
-**Yayin tarihi:** 22/01/2026
+**Egitici yayin serisi 08 · Yayin tarihi: 22/01/2026**
 
-Pigtail yapisi, fiber ve buffer uyumu, fusion splice, panel duzeni ve test.
+Pigtail'in bir ucu fabrikada konektorlenir, diger ucu sahada ek icin hazirlanir. Bu iki farkli islem ayni optik baglantinin parcasidir. MAVIVON Pigtail kilavuzunda urunun seciminden panel icindeki son duzenine kadar baglantiyi takip ediyoruz.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Fiber kategorisi, konektor tipi, UPC/APC uyumu ve buffer yapisi; Fusion Splice islemi ve splice tray yerlesimiyle birlikte ele aliniyor. Konektorlu ucun uretimi ile sahadaki ek hazirligi farkli kontrol noktalarina sahip. Kilavuz, olcum sonucunu yorumlarken bu ayrimi yapmaya yardimci oluyor.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Pigtail_Egitim_Kilavuzu.pdf)
+ODF, patch panel veya dagitim kutusu icinde Pigtail kullanan ekipler; fiber kimligini koruma, servis payini yerlestirme ve ekleri kayit altina alma bolumlerinden yararlanabilir. Satin alma tarafinda ise urun taniminin ve test beklentilerinin daha acik yazilmasi icin bir baslangic sunuyor.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Pigtail_Egitim_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

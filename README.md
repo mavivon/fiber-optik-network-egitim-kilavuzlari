@@ -1,6 +1,8 @@
 ![MAVIVON Teknoloji](logo.png)
 
-# MAVIVON Teknoloji | Fiber Optik, GPON, Cat6 ve CCTV Egitim Kutuphanesi
+# MAVİVON Teknik Eğitim Kütüphanesi
+
+## Fiber Optik, GPON, FTTH, Cat6 ve CCTV
 
 Fiber optik altyapi kurarken dogru urunu secmek kadar, o urunun neden secildigini bilmek de gerekiyor. Bu kutuphanede MAVIVON Teknoloji olarak hazirladigimiz 14 Turkce egitim kilavuzunu bir araya getirdik. Kilavuzlar; uretim ve malzemeden proje planlamaya, montajdan olcum ve teslime kadar uygulamada karsilasilan sorulari ele aliyor.
 
@@ -45,7 +47,7 @@ Yayinlar egitim ve urun secimine destek amaciyla hazirlanmistir. Projeye uygulan
 
 ## MAVIVON Teknoloji
 
-**MAVIVON TEKNOLOJI IC ve DIS TICARET ANONIM SIRKETI**
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
 
 Sepetlipinar Mahallesi, Zafer Caddesi No: 15, Basiskele / Kocaeli
 

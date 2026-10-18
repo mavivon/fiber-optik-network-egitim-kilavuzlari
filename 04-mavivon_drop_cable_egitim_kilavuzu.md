@@ -1,15 +1,23 @@
-# Fiber Optik Drop Cable | MAVIVON Teknoloji
+# MAVİVON | Fiber Optik Drop Cable
 
-**Yayin tarihi:** 24/09/2024
+**Egitici yayin serisi 04 · Yayin tarihi: 24/09/2024**
 
-Flat, round ve self-supporting yapilar; aski teli, abone guzergahi ve sonlandirma.
+Abone baglantisinda kullanilan ince bir kablo, guzergahin tamaminda ayni zorlanmayla karsilasmaz. Direkler arasindaki aciklik, gunes alan cephe ve daire icindeki dar donusler farkli secimler gerektirir. MAVIVON Drop Cable kilavuzu, sahada sikca gorulen flat ve round yapilari bu uygulamalarla birlikte inceliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Iki yan guclendirme elemani ile ayri messenger telinin gorevleri birbirinden farklidir. Celik, FRP ve aramid gibi elemanlarin bulunmasi da tek basina izin verilen acikligi belirlemez. Kilavuzda self-supporting kablo, uygun tutucu, sehim, dis ortam kilifi ve bina girisi iliskisini somut orneklerle anlattik.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Drop_Cable_Egitim_Kilavuzu.pdf)
+Abone prizine kadar ilerleyen bolumlerde kablo hazirlama, Fusion Splice veya Fast Connector ile sonlandirma ve baglantinin olculmesi yer aliyor. Bir malzeme listesi hazirlarken yalnizca metreyi degil, gecis noktalarini ve servis paylarini da hesaba katmak isteyenlere yonelik bir kaynak.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Drop_Cable_Egitim_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

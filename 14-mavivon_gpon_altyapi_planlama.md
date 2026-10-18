@@ -1,15 +1,23 @@
-# GPON Altyapi Planlama | MAVIVON Teknoloji
+# MAVİVON | GPON Altyapi Planlama
 
-**Yayin tarihi:** 15/09/2026
+**Egitici yayin serisi 14 · Yayin tarihi: 15/09/2026**
 
-OLT, ONT ve splitter yerlesimi; optik guc butcesi, kapasite ve proje ornekleri.
+GPON planlamasinda abone sayisini belirlemek ilk adimdir; ama kapasiteyi, mesafeyi ve optik kaybi birlikte hesaplamadan urun secimine gecmek eksik kalir. MAVIVON GPON Altyapi Planlama kilavuzu, OLT'den ONT'ye uzanan pasif dagitim agini bu iliskiler uzerinden ele aliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Splitterin nerede bulunacagi ve hangi bolme oraninin kullanilacagi hem optik butceyi hem de saha isletmesini etkiler. Fiber mesafesi, ekler, konektorler ve ayrilan paylar bir araya getirilirken kapasite ihtiyaci da ayrica degerlendirilir. Kilavuzdaki proje ornekleri, bu kararlarin tek bir urunun veri sayfasindan cikmadigini gosteriyor.
 
-[PDF kilavuzunu ac veya indir](Mavivon_Gpon_Altyap%C4%B1_Planlama.pdf)
+Yeni yerlesim, bina grubu veya mevcut ag genisletmesi planlayan ekipler icin hazirladigimiz bu yayin; port tahsisi, malzeme secimi ve baglanti mimarisini birlikte dusunmeye yardimci oluyor. Planlama calismasina baslarken hangi girdilerin toplanacagina dair bir basvuru kaynagi olarak kullanabilirsiniz.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](Mavivon_Gpon_Altyap%C4%B1_Planlama.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

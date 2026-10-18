@@ -1,15 +1,23 @@
-# Cat6 Kablolar | MAVIVON Teknoloji
+# MAVİVON | Cat6 Kablolar
 
-**Yayin tarihi:** 05/05/2026
+**Egitici yayin serisi 12 · Yayin tarihi: 05/05/2026**
 
-Iletken, bukum, ekranlama, kilif, frekans, PoE, uretim ve sartname hazirligi.
+Cat6 kablo ayni kategori adiyla sunulsa da iletken, ekranlama ve kilif yapilari farkli olabilir. Bir teklifin uygulamaya uygunlugunu anlamak icin bu bilgileri olcum sonuclari ve montaj kosullariyla birlikte okumak gerekir. MAVIVON Cat6 Kablo kilavuzu, kablonun yapisindan baslayarak bu degerlendirmeyi adim adim ele aliyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Iletken malzemesi, ciftlerin bukumu, ekranlama secenekleri ve dis kilif; uretim ve performans basliklariyla birlikte aciklaniyor. Frekans beyanini yorumlama, kategori uygunlugunu sorgulama ve PoE uygulamasinda gereken kosullari degerlendirme konulari da kapsamda.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Cat6_Kablo_Egitim_Kilavuzu.pdf)
+Sartname hazirlayanlar icin acik urun tanimi; satin alma ekibi icin karsilastirilabilir veri; uygulama ekibi icin montaj ve test beklentileri sunmayi amacladik. Kablo uzerindeki etiketten baslayip kabul raporuna kadar hangi bilgilerin takip edilecegini PDF'de bulabilirsiniz.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Cat6_Kablo_Egitim_Kilavuzu.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)

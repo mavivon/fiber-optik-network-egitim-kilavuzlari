@@ -1,15 +1,23 @@
-# Cat6 Patch Panel ve Aksesuarlar | MAVIVON Teknoloji
+# MAVİVON | Cat6 Patch Panel ve Aksesuarlar
 
-**Yayin tarihi:** 19/07/2026
+**Egitici yayin serisi 13 · Yayin tarihi: 19/07/2026**
 
-Keystone, IDC sonlandirma, ekranlama, rack duzeni, etiketleme ve test.
+Patch Panel, kablo tesisatinin bakim yapilabilen yuzudur. Portlarin etiketlenmesi, arka taraftaki sonlandirma duzeni ve kablo destegi; ariza bulma ve yeni hat ekleme islerini dogrudan etkiler. MAVIVON Cat6 Patch Panel ve Aksesuarlar yayini, rack icindeki bu duzeni urun secimiyle birlikte anlatiyor.
 
-Bu egitim kilavuzu, urunun yapisini anlamak ve uygulamaya uygun secim yapmak isteyenler icin hazirlandi. Kapsamdaki teknik aciklamalar; proje hazirligi, saha uygulamasi ve satin alma degerlendirmesinde birlikte okunabilir.
+Keystone ve IDC sonlandirma, ekranli sistemde uyum, kablo yonetimi ve panel yerlesimi ayri basliklarda ele aliniyor. Panel, jack, Patch Cord ve tesisat kablosunun birlikte calistigi bir baglantida, yalnizca tek parcanin kategori etiketine bakmanin neden yeterli olmadigini inceleyebilirsiniz.
 
-[PDF kilavuzunu ac veya indir](MAVIVON_Cat6_Patch_Panel_Aksesuarlar.pdf)
+Rack kurulumu yapanlar ve yapisal kablolama projesi hazirlayanlar icin malzeme listesi ile saha uygulamasi arasinda bag kuran bir kaynak. Montajdan sonra etiketleme, test ve teslim duzenini kurmak isteyen ekiplere de yonelik.
 
-Uygulamaya gecmeden once projeye ait kosullari ve secilen urunun guncel veri sayfasini kontrol edin. Kilavuzdaki ornek degerleri dogrudan urun garantisi olarak kullanmayin.
+**[Tam kilavuzu PDF olarak inceleyin](MAVIVON_Cat6_Patch_Panel_Aksesuarlar.pdf)**
 
-[Butun egitim yayinlari](README.md) · [MAVIVON resmi web sitesi](https://www.mavivon.com.tr)
+---
 
-Iletisim: sales@mavivon.com.tr | +90 262 606 0002
+### MAVİVON Teknoloji
+
+**MAVİVON TEKNOLOJİ İÇ ve DIŞ TİCARET ANONİM ŞİRKETİ**
+
+Sepetlipınar Mahallesi, Zafer Caddesi No: 15, Başiskele / Kocaeli
+
+[www.mavivon.com.tr](https://www.mavivon.com.tr) · [sales@mavivon.com.tr](mailto:sales@mavivon.com.tr) · +90 262 606 0002
+
+[Diğer MAVİVON eğitim yayınlarını inceleyin](README.md)
